@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+body{
+   background: #f2f2f2;
+}
+
 .blender{
     position: fixed;
     left: 50%;
